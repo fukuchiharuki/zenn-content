@@ -1,6 +1,6 @@
 ---
 title: "要望と要求と要件の違いをシステムと利用者との関係から捉えなおす"
-emoji: "🤔"
+emoji: "🖼️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["要件定義", "ポエム"]
 published: true
